@@ -1,5 +1,5 @@
 plugins:
   - jekyll-relative-links
-include:
-  - basics.md
-  - voting.md
+relative_links:
+  enabled:     true
+  collections: true
