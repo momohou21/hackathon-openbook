@@ -4,5 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - beginners-track.md
-  - topics.md
+  - basics.md
+  - playgrounds/voting.md
+  - playgrounds/prize-and-allocation.md
