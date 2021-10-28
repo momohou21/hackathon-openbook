@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Hackathon Openbook
 description: (Almost) everything you need to know about hackathons
+plugins:
+  - jekyll-relative-links
 relative_links:
   enabled:     true
   collections: true
