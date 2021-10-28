@@ -1,9 +1,5 @@
 plugins:
   - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
 include:
   - basics.md
-  - playgrounds/voting.md
-  - playgrounds/prize-and-allocation.md
+  - voting.md
