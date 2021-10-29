@@ -4,5 +4,11 @@ title: Active Playgrounds
 permalink: /playgrounds/
 ---
 
-TBD
+[Jekyll docs][jekyll-docs]
+[Jekyll docs][jekyll-docs]
+[Jekyll docs][jekyll-docs]
+[Jekyll docs][jekyll-docs]
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+
 

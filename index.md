@@ -5,9 +5,7 @@
 layout: home
 ---
 
-# The Hackathon Openbook
-
-This is a open-source manual activly maintained by global hackers and hackathon organizers. We are trying to capture all almost everything needed to know and discuss about hackathons. 
+This is a open-source manual activly maintained by global hackers and hackathon organizers. We are trying to capture almost everything you need to know or want to discuss about hackathons here.
 
 
 ## 💻What is a hackathon (We Believe...)
@@ -30,5 +28,5 @@ With the flexibility of the hackathon, the goal of a single hackathon is quite d
 
 ## 🎉Contribute to this Openbook
 
-Please notice this playbook is a ongoing work and you are more than welomed to contribute by commenting or submitting a PR to this repo if you have anything to say. Detailed instructions can be reached as below.
+This playbook is a ongoing work and you are more than welomed to contribute by commenting or submitting a PR to this repo if you have anything to say. 
 

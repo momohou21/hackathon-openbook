@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 > Owner: @Penny.Wang @Momo.Hou
 
-# Before the Hack
+## Before the Hack
 
-## 1. Key Steps to Prepare a Hackathon
+### 1. Key Steps to Prepare a Hackathon
 
 The preparation work can be really flexible according to your own event scale and goals.But the aim of the whole planning should be focusing on engaging and equipping the hackers to hack. A project tracker format can be found here, please feel free to make a copy and use for your upcoming hacks.
 
@@ -19,12 +19,12 @@ The preparation work can be really flexible according to your own event scale an
 - Step 5 - the real hack day(s) and follow up.
 
 
-## 2. Topic
+### 2. Topic
 
 One of the most important thing for a hackathon is its topic and it can impact all the downstream preparation effort. With a clear and specific theme, you can decide your target participants and potential partners to approach, customize all the details like location, time, prize, promotion channel, etc. 
 
 
-## 3. Site - offline or virtual
+### 3. Site - offline or virtual
 
 For a **offline** hack, the minimum requirement of the venue would be fast and stable internet, and other setups from decoration to furnitures are totally depend on your budget. 
 
@@ -37,7 +37,7 @@ For a **virtual** hack, all you need is a solid online platform for project subm
     
 
 
-## 4. Communication and Publicity
+### 4. Communication and Publicity
 
 Before preparing any materials, you have to determine **who is your target participants** based on your topic and location. And then we suggest you to use “participants = channel x conversion rate” to estimate your final participants. 
 
@@ -55,7 +55,7 @@ Even though you may think promotion materials like poster and content scripts ar
 Plus, a good register questionnaire can help you better understand, engaging and manage your participants. You can also do some preliminary screening before the real hack based on your preference. A simple format can be reached here.
 
 
-## 5.Partners
+### 5.Partners
 
 Partners are totally optional for most of the hacks. Yet, holding a hackathon with the right partner might better equip the participants to deliver more valuable and interesting results. For example, you may need **local developer community** to promote your event, or some experienced experts to join as **mentors or judges**, or an **entity** to fund your reward, or a cloud service platform to **provide** solid and secure computing **service**, or a **food and accommondation supplier**, etc. 
 
@@ -64,9 +64,9 @@ We find HackathonDAO as a quite focused and professional sponsor, where they not
 We are actively maintaining a list💻 of global potential partners of a hackathon event and you are more than welcomed to share you and your previous partner here if allowed and available.
 
 
-# On the Hack
+## On the Hack
 
-## 1. Team up
+### 1. Team up
 
 As mentioned above, it’s better to let the participants to know each other and exchange ideas before the real hack day. Useful tools includes Discord, Slack, Telegram, ect. We currently haven’t found a very efficient way for this and you are more than welcomed to add your own thoughts.💻
 
@@ -86,7 +86,7 @@ The final demo show is usually the most interesting and exciting part of the who
 - More to come...💻
 
 
-## 3. Voting and Awards
+### 3. Voting and Awards
 
 This is the most critical part of a hackathon and we find most of the current hackathons are using the following three ways to decide the prize allocation and please notice you can always combine them depending on your own case:
 
@@ -99,7 +99,7 @@ This is the most critical part of a hackathon and we find most of the current ha
     - Cons - You need a platform like gitcoin and hackerlink to hold this vote.
 
 
-## 4. Further Improve Your Hacking Experience
+### 4. Further Improve Your Hacking Experience
 
 Every hackathon owners would have tons of advices and tips for you to further improve the hacking experience. Some of them are listed as below and you are more than welcomed to add more!!
 
@@ -111,7 +111,7 @@ Every hackathon owners would have tons of advices and tips for you to further im
 - More to come... 💻
 
 
-# After the Hack
+## After the Hack
 
 Participants and projects are both valuable outcomes of a hackathon. However, we find most of the events neglect this step and miss this great opportunity to expand their own community or fail to develop a prototyping project into a established product. 
 
