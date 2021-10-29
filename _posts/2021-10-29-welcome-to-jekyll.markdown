@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Event planning and logistics"
 date:   2021-10-29 11:22:44 +0800
 categories: jekyll update
 ---
