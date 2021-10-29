@@ -8,7 +8,7 @@ categories: jekyll update
 
 # Before the Hack
 
-## 1.Key Steps to Prepare a Hackathon
+## 1. Key Steps to Prepare a Hackathon
 
 The preparation work can be really flexible according to your own event scale and goals.But the aim of the whole planning should be focusing on engaging and equipping the hackers to hack. A project tracker format can be found here, please feel free to make a copy and use for your upcoming hacks.
 
@@ -19,32 +19,25 @@ The preparation work can be really flexible according to your own event scale an
 - Step 5 - the real hack day(s) and follow up.
 
 
-## 2.Topic
+## 2. Topic
 
 One of the most important thing for a hackathon is its topic and it can impact all the downstream preparation effort. With a clear and specific theme, you can decide your target participants and potential partners to approach, customize all the details like location, time, prize, promotion channel, etc. 
 
 
-## 3.Site - offline or virtual
+## 3. Site - offline or virtual
 
 For a **offline** hack, the minimum requirement of the venue would be fast and stable internet, and other setups from decoration to furnitures are totally depend on your budget. 
 
-- Pros
-    - Irreplaceable experience of communicating and developing.
-- Cons
-    - Complex logistics.
-    - Limited by physical location and time.
-
 For a **virtual** hack, all you need is a solid online platform for project submission and voting, and probably also a online meeting room for your opening and final demo show.
 
-- Pros
-    - Does not restricted by physical location.
-    - Can last for a comparable longer period of time.
-    - No need for complicated logistics.
-- Cons
-    - Not friendly for in individual hackers if no proper way provided to team up.
+|         | Pros                                                                                                                                | Cons                                                                           |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| offline | - Irreplaceable experience of communicating and developing；                                                                        | - Complex logistics; - Limited by physical location and time;                  |
+| virtual | - Does not restricted by physical location; - Can last for a comparable longer period of time; - No need for complicated logistics; | - Not friendly for in individual hackers if no proper way provided to team up. |
     
 
-## 4.Communication and Publicity
+
+## 4. Communication and Publicity
 
 Before preparing any materials, you have to determine **who is your target participants** based on your topic and location. And then we suggest you to use “participants = channel x conversion rate” to estimate your final participants. 
 
@@ -73,14 +66,14 @@ We are actively maintaining a list💻 of global potential partners of a hackath
 
 # On the Hack
 
-## 1.Team up
+## 1. Team up
 
 As mentioned above, it’s better to let the participants to know each other and exchange ideas before the real hack day. Useful tools includes Discord, Slack, Telegram, ect. We currently haven’t found a very efficient way for this and you are more than welcomed to add your own thoughts.💻
 
 If you find some of your participants are still not teamed up on the hack day, you can **1)** hold a open-mic and let encourage those who already have their own idea to recruit teammates and **2)** hold a corner for those individuals contributed to talk. These can be used for both online and offline events. 
 
  
-## 2.Projects Submission & Demo
+## 2. Projects Submission & Demo
 
 The final demo show is usually the most interesting and exciting part of the whole event, yet it’s also the part that most likely to get into embarrassment and chaos. Here are some tips for you：
 
@@ -93,7 +86,7 @@ The final demo show is usually the most interesting and exciting part of the who
 - More to come...💻
 
 
-## 3.Voting and Awards
+## 3. Voting and Awards
 
 This is the most critical part of a hackathon and we find most of the current hackathons are using the following three ways to decide the prize allocation and please notice you can always combine them depending on your own case:
 
@@ -106,7 +99,7 @@ This is the most critical part of a hackathon and we find most of the current ha
     - Cons - You need a platform like gitcoin and hackerlink to hold this vote.
 
 
-## 4.Further Improve Your Hacking Experience
+## 4. Further Improve Your Hacking Experience
 
 Every hackathon owners would have tons of advices and tips for you to further improve the hacking experience. Some of them are listed as below and you are more than welcomed to add more!!
 
