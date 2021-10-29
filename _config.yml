@@ -21,7 +21,7 @@
 title: Hackathon Openbook
 email: momo@dorahacks.com
 description: (Almost) everything you want to know and discuss about hackathons
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" /hackathon-openbook/
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -37,7 +37,6 @@ plugins:
   - jekyll-feed
 
 nav_pages:
-  - index.html
   - playgrounds.md
 
 # Exclude from processing.

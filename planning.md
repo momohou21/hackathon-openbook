@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Event Planning and Organizing
+title: ⚙️Event Planning and Organizing
 permalink: /playgrounds/planning/
 ---
 
-# ⚙️Event Planning and Organizing
 > Owner: @Penny.Wang @Momo.Hou
 
 # Before the Hack
