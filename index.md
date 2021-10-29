@@ -14,9 +14,7 @@ This is a open-source manual for all hackers and hackathon organizers and we are
 
 ## What is a hackathon (We Believe)
 
-Hackathon is a kind of events that gather people (mostly hackers) to “hack” on certain topics under an intensive time constrain, where the final projects are not necessarily refined and concept-proving prototypes are totally acceptable.
-
-As a way of inspiring and innovating, hackathon is quite flexible. Almost everything can be the topic and we have seen a lot of great hacks in developer communities, schools and companies, like:
+Hackathon is a kind of events that gather people (mostly hackers) to “hack” on certain topics under an intensive time constrain, where the final projects are not necessarily refined and concept-proving prototypes are totally acceptable. As a way of inspiring and innovating, hackathon is quite flexible. Almost everything can be the topic and we have seen a lot of great hacks in developer communities, schools and companies, like:
 
 - **technical** and **edge-cutting** hacks on blockchain, cyber security, IOT, Web 3.0, ect.
 - **cross-disciplined** hacks on wearable devices, art installations, rural education;

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ⚙️Event Planning and Organizing
+title: Event Planning and Organizing
 permalink: /playgrounds/planning/
 ---
 

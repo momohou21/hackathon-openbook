@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌍Active Playgrounds
+title: Active Playgrounds
 permalink: /playgrounds/
 ---
 
