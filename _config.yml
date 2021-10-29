@@ -27,14 +27,14 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
 markdown: kramdown
-remote-theme: benbalter/retlab
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-seo-tag
   - jekyll-avatar
   - jekyll-github-metadata
   - jekyll-feed
+  - jekyll-remote-theme 
 
 nav_pages:
   - playgrounds.md
