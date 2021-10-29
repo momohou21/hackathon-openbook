@@ -5,7 +5,7 @@ permalink: /playgrounds/
 ---
 
 - [Hacking Topics][Hacking Topics]
-- [Voting][Voting]
+- [Voting and Prize Allocation][Voting and Prize Allocation]
 - [Upcoming Hacks][Upcoming Hacks]
 - [Toolkit][Toolkit]
 - [Event Planning][Event Planning]
