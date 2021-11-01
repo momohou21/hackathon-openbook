@@ -63,6 +63,7 @@ We find HackathonDAO as a quite focused and professional sponsor, where they not
 
 We are actively maintaining a list💻 of global potential partners of a hackathon event and you are more than welcomed to share you and your previous partner here if allowed and available.
 
+---
 
 ## On the Hack
 
@@ -110,6 +111,8 @@ Every hackathon owners would have tons of advices and tips for you to further im
 - Workshop
 - More to come... 💻
 
+
+---
 
 ## After the Hack
 
