@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Perspectives
-permalink: /playgrounds/
+permalink: /perspectives/
 ---
 
 ## What is a hackathon (our perspective...)
