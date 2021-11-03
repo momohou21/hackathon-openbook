@@ -4,10 +4,10 @@ title: Our Perspectives
 permalink: /perspectives/
 ---
 
-### What is a hackathon (our perspective...)
+### What is a hackathon
 A Hackathon is an event where people(mostly hackers) gather together to intensively 'hack' on certain topics under time constraints, where the final projects are not necessarily refined and concept-proving prototypes are totally acceptable. As a mean of inspiration and innovation, a hackathon is very flexible and almost everything can be the topic and we have seen lots of great hacks in developer communities, schools and companies, like:
 
-- **technical** hacks on blockchain, cyber security, IOT, Web 3.0, ect;
+- **technical** hacks on blockchain, cyber security, IOT, Web 3.0, repo bug fixing, ect;
 - **cross-disciplined** hacks on wearable devices, art installations, rural education, ect;
 - **fun** hacks on Halloween, Mario games, ect;
 
