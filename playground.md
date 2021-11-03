@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Playground
-permalink: /playgrounds/
+permalink: /playground/
 ---
 
 - [Hacking Topics and Focus Area][Hacking Topics]
