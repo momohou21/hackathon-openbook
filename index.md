@@ -11,5 +11,5 @@ This is an open-source manual actively maintained by global **hackers** and **ha
 And you are more than welcome to contribute by commenting or submitting a PR to this repo if you have any suggestions or anything to add.
 
 
-[playground]: https://momohou21.github.io/hackathon-openbook/playgrounds/
+[playground]: https://momohou21.github.io/hackathon-openbook/playground/
 [repo]: https://github.com/dorahacksglobal/Hackathon-Playbook
