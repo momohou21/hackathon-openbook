@@ -8,7 +8,7 @@ title: "Welcome!"
 
 This is an open-source manual actively maintained by global **hackers** and **hackathon organizers**, trying to capture almost everything you need to know or want to discuss about hackathons. You can participate in all the active discussions on our "[playground][playground]". Enjoy:-) 
 
-And you are more than welcome to contribute by commenting or submitting a PR to this repo if you have any suggestions or anything to add.
+And you are more than welcome to contribute by commenting or submitting a PR to [this repo][repo] if you have any suggestions or anything to add.
 
 
 [playground]: https://momohou21.github.io/hackathon-openbook/playground/
