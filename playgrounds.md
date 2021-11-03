@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Active Playgrounds
+title: Playground
 permalink: /playgrounds/
 ---
 
@@ -16,4 +16,4 @@ permalink: /playgrounds/
 [Upcoming Hacks]: https://momohou21.github.io/hackathon-openbook/playground/2021/10/29/upcoming-hacks.html
 [Toolkit]: https://momohou21.github.io/hackathon-openbook/playground/2021/10/29/toolkits.html
 [Event Planning]: https://momohou21.github.io/hackathon-openbook/jekyll/update/2021/10/29/event-planning.html
-[Hacking City Guide]: https://momohou21.github.io/hackathon-openbook/jekyll/update/2021/10/30/city-guide.html
+[Hacking City Guide]: https://momohou21.github.io/hackathon-openbook/jekyll/update/2021/10/31/city-guide.html
